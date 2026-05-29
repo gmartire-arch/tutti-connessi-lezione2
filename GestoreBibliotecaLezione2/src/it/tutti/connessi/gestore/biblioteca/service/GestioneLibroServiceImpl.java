@@ -2,7 +2,7 @@ package it.tutti.connessi.gestore.biblioteca.service;
 
 import java.util.ArrayList;
 
-import it.tutti.connessi.gestore.model.Libro;
+import it.tutti.connessi.gestore.biblioteca.model.Libro;
 
 public class GestioneLibroServiceImpl {
 	

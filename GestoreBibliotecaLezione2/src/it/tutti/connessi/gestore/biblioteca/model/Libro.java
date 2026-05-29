@@ -1,4 +1,4 @@
-package it.tutti.connessi.gestore.model;
+package it.tutti.connessi.gestore.biblioteca.model;
 
 public class Libro {
 
